@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "working",
+      "username": "Sample1",
+      "email": "workingman@user.com",
+      "phone": "954-777-0000",
+      "website": "sample1.com",
+      "id": "0776"
+    },
+    {
+      "name": "Sample3",
+      "username": "Sample3",
+      "email": "sample3@user.com",
+      "phone": "954-777-0002",
+      "website": "sample3.com",
+      "id": "c7e5"
+    },
+    {
+      "name": "Sample4",
+      "username": "Sample4",
+      "email": "sample4@user.com",
+      "phone": "954-777-0003",
+      "website": "sample4.com",
+      "id": "8f7f"
+    },
+    {
+      "name": "Sample5",
+      "username": "Sample5",
+      "email": "sample5@user.com",
+      "phone": "954-777-0004",
+      "website": "sample5.com",
+      "id": "2443"
+    },
+    {
+      "name": "Sample6",
+      "username": "Sample6",
+      "email": "sample6@user.com",
+      "phone": "954-777-0005",
+      "website": "sample6.com",
+      "id": "0f93"
+    },
+    {
+      "name": "Sample7",
+      "username": "Sample7",
+      "email": "sample7@user.com",
+      "phone": "954-777-0006",
+      "website": "sample7.com",
+      "id": "769d"
+    },
+    {
+      "name": "Sample8",
+      "username": "Sample8",
+      "email": "sample8@user.com",
+      "phone": "954-777-0007",
+      "website": "sample8.com",
+      "id": "3b6f"
+    },
+    {
+      "name": "Sample9",
+      "username": "Sample9",
+      "email": "sample9@user.com",
+      "phone": "954-777-0008",
+      "website": "sample9.com",
+      "id": "6258"
+    }
+  ]
+}
